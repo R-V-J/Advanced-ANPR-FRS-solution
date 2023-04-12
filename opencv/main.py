@@ -10,8 +10,8 @@ edges=cv.Canny(bifilter, 30, 200)
 keypoints=cv.findContours(edges, cv.RETR_TREE, cv.CHAIN_APPROX_SIMPLE)
 contours=imutils.grab_contours(keypoints)
 contours=sorted(contours, key=cv.contourArea, reverse=True)[:10]#sorting in descending order
-# looping through each contour to know which one represents a quadrilateral
 
+# looping through each contour to know which one represents a quadrilateral
 location=None
 for contour in contours:
     approx=cv.approxPolyDP(contour, 10, True)
