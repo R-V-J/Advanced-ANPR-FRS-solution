@@ -1,6 +1,6 @@
-features.npy
-labels.npy
-haar_face.xml
+# features.npy
+# labels.npy
+# haar_face.xml
 marathi_number_plate.jpg
 number_plate.jpeg
 terrorist.jpg
