@@ -62,4 +62,4 @@ This is one of the unique projects done by a team of six members which inludes t
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/R-V-J/Automatic_Number_Plate_Recognition)
-- [Demo Video]()
+- [Demo Video](https://drive.google.com/drive/u/1/folders/1yRx7JDimmQxAL-2GM5gQsnqcsfeyDL5c)
