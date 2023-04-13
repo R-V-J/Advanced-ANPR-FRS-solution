@@ -18,11 +18,12 @@
 This is one of the unique projects done by a team of six members which inludes the domain of **video analytics and CCTV**. In this prroject, we extensively used the **computer vision and the image processing** technologies using various in-built modules and libraries of **Python** programming language. As a part of our attempt to the **KAVACH 2023 - The Cybersecurity Hackathon**, we tried to advance the existing technologies by adding few valuable edits.
 
 ## 🤖Tech-Stack
-![image](https://user-images.githubusercontent.com/119912993/231549064-6aa22e9a-cc1f-4732-9f15-8c5f84e824b9.png)
-![image](https://user-images.githubusercontent.com/119912993/231549351-5a7fcfdc-998a-4880-a2af-7225c80ccbc7.png)
-![image](https://user-images.githubusercontent.com/119912993/231549738-5013b6f7-3754-4330-95d9-adc68a294fe0.png)
-
-
+![image](https://user-images.githubusercontent.com/119912993/231549064-6aa22e9a-cc1f-4732-9f15-8c5f84e824b9.png) &nbsp; &nbsp; &nbsp;
+![image](https://user-images.githubusercontent.com/119912993/231549351-5a7fcfdc-998a-4880-a2af-7225c80ccbc7.png) &nbsp; &nbsp; &nbsp;
+![image](https://user-images.githubusercontent.com/119912993/231549738-5013b6f7-3754-4330-95d9-adc68a294fe0.png) <br />
+![image](https://user-images.githubusercontent.com/119912993/231636358-72a49f70-5d57-4875-a0f6-e6251f0453eb.png) &nbsp; &nbsp; &nbsp;
+![image](https://user-images.githubusercontent.com/119912993/231635764-17335a4a-c329-43a0-b90e-e4e81499e9e8.png) &nbsp; &nbsp; &nbsp;
+![image](https://user-images.githubusercontent.com/119912993/231635902-0243d3d5-993a-458e-b232-19cb46b0d37d.png) &nbsp; &nbsp; &nbsp;
 
 ## 👨‍💻Team Members
 - [Arsh Khan](https://github.com/Arsh-Khan)
